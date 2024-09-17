@@ -3,9 +3,10 @@ import Fire from '../assets/fireflames.jpg'
 
 const OurVision = () => {
   return (
+    <div className='py-14'>
     <div className="max-w-screen-xl h-svh bg-[#fdfdf8] flex-col justify-center items-start inline-flex z-0 ">
         <div className='w-screen h-1/2 z-10 relative flex flex-col items-center justify-center '>
-           <img className=' w-full absolute inset-y-0 right-0' src={Fire} alt=''/>
+          
             {/*Vision Container*/ }
             <div className='z-20 w-3/4 bg-white/60 backdrop-blur-[15.6px] border-2 border-black rounded-lg p-8 mt-8'>
               <div className="w-full mt-7 text-black font-bold text-4xl font-['Atkinson Hyperlegible'] text-center ">
@@ -32,6 +33,7 @@ const OurVision = () => {
               </div>
            </div> 
         </div>
+    </div>
     </div>
   )
 }
