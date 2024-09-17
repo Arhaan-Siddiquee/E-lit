@@ -22,15 +22,15 @@ const Stat = () => {
                 <dl className="rounded-lg bg-white shadow-lg sm:grid sm:grid-cols-3">
                   <div className="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
                     <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">Plastic Waste Reduction</dt>
-                    <dd className="order-1 text-5xl font-extrabold text-green-500">Over 1 Million kg/year</dd>
+                    <dd className="order-1 text-3xl font-extrabold text-orange-500">Over 1 Million kg/year</dd>
                   </div>
                   <div className="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
                     <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">Reusable Lifespan</dt>
-                    <dd className="order-1 text-5xl font-extrabold text-green-500">Up to 3 Years</dd>
+                    <dd className="order-1 text-3xl font-extrabold text-orange-500">Minimum 3 Years</dd>
                   </div>
                   <div className="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l">
                     <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">Eco-Friendly Production</dt>
-                    <dd className="order-1 text-5xl font-extrabold text-green-500">100% Sustainable Materials</dd>
+                    <dd className="order-1 text-3xl font-extrabold text-orange-500">100% Sustainable Materials</dd>
                   </div>
                 </dl>
               </div>
