@@ -4,7 +4,7 @@ import Advantage from './Advantage';
 import logo from '../assets/e-lit01.jpg';
 import FAQ from './FAQ';
 import Stat from './Stat';
-import Navbar from './Navbar';
+import Navbar from './NavBar';
 import OurVision from './OurVision';
 import Footer from './Footer';
 
